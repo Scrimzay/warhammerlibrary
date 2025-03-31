@@ -5,3 +5,5 @@ run the exe, ./warhammerlibrary search, ./warhammerlibrary.exe search, whatever,
 k thanks, make sure to star the repo, follow me my github and follow my twitch and twitter(x)
 
 also, if you want to know where the logic is, its in cmd/multiInput
+
+also also, if you do want to check the datacards (cause youre a WH40k fan), go to this link: https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/. the datacards are only available as pdf download, sad!
