@@ -3,3 +3,5 @@ my current magnum opus, its just a cli tool for every warhammer 40k faction, plu
 run the exe, ./main, ./main.exe whatever, then explore the tool
 
 k thanks, make sure to star the repo, follow me my github and follow my twitch and twitter(x)
+
+also, if you want to know where the logic is, its in cmd/multiInput
